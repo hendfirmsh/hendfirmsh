@@ -34,34 +34,7 @@ goal: Building intelligent, secure systems that make a real impact
 <img src="https://raw.githubusercontent.com/hendfirmsh/hendfirmsh/main/assets/section-divider.svg" width="100%" />
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║              ██╗  ██╗███████╗███╗   ██╗             ║
-║              ██║  ██║██╔════╝████╗  ██║             ║
-║              ███████║█████╗  ██╔██╗ ██║             ║
-║              ██╔══██║██╔══╝  ██║╚██╗██║             ║
-║              ██║  ██║███████╗██║ ╚████║             ║
-║              ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝             ║
-║                                                      ║
-║                 HENDRIK FIRMANSYAH                    ║
-║               ──────────────────────                  ║
-║                                                      ║
-║          ┌────────────────────────────────┐           ║
-║          │  INFORMATICS  │  AI ENGINEER   │           ║
-║          │  CYBER SEC   │  ANDROID DEV    │           ║
-║          └────────────────────────────────┘           ║
-║                                                      ║
-║          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           ║
-║                                                      ║
-║          ● AI ENGINE     ● CYBER DEFENSE             ║
-║          ● ANDROID DEV   ● OPEN SOURCE               ║
-║                                                      ║
-║          ┌────────────────────────────────┐           ║
-║          │  BUILDING INTELLIGENT SYSTEMS  │           ║
-║          │  THAT MAKE A REAL IMPACT       │           ║
-║          └────────────────────────────────┘           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+
 ```
 
 <p align="center">
