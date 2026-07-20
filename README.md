@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/hendfirmsh/hendfirmsh/main/assets/terminal.svg" width="100%" alt="Terminal" />
 </p>
 
-<img src="https://raw.githubusercontent.com/hendfirmsh/hendfirmsh/main/assets/section-divider.svg" width="100%" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hendfirmsh/hendfirmsh/main/assets/profile-card.svg" width="100%" alt="Profile Card" />
@@ -33,9 +32,6 @@ goal: Building intelligent, secure systems that make a real impact
 
 
 
-
-
-<img src="https://raw.githubusercontent.com/hendfirmsh/hendfirmsh/main/assets/section-divider.svg" width="100%" />
 
 <h4 align="center">📫 <strong>Connect with Me</strong></h4>
 
