@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="154" viewBox="0 0 430 154">
+  <rect width="430" height="154" fill="#0d1137" rx="8" stroke="#1f2540" stroke-width="0.5"/>
+  <rect width="430" height="32" fill="#3DDC84" rx="8" opacity="0.1"/>
+  <text x="215" y="22" fill="#3DDC84" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">📱 Android</text>
+  <line x1="0" y1="32" x2="430" y2="32" stroke="#1f2540" stroke-width="0.5"/>
+  <image x="30" y="40" width="16" height="16" href="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&amp;logo=androidstudio&amp;logoColor=white" />
+     <text x="55" y="53" fill="#e6edf3" font-family="monospace" font-size="12">Android Studio</text>
+<image x="30" y="66" width="16" height="16" href="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&amp;logo=jetpackcompose&amp;logoColor=white" />
+     <text x="55" y="79" fill="#e6edf3" font-family="monospace" font-size="12">Jetpack Compose</text>
+<image x="30" y="92" width="16" height="16" href="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&amp;logo=firebase&amp;logoColor=black" />
+     <text x="55" y="105" fill="#e6edf3" font-family="monospace" font-size="12">Firebase</text>
+<image x="30" y="118" width="16" height="16" href="https://img.shields.io/badge/-Room%20DB-FF6F00?style=flat" />
+     <text x="55" y="131" fill="#e6edf3" font-family="monospace" font-size="12">Room DB</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="pcbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1137"/>
+      <stop offset="100%" stop-color="#111632"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#pcbg)" rx="12" stroke="#1f2540" stroke-width="0.5"/>
+  <circle cx="80" cy="80" r="45" fill="#1a1f3a" stroke="#00d4ff" stroke-width="2"/>
+  <text x="80" y="76" fill="#00d4ff" font-family="monospace" font-size="14" text-anchor="middle">HF</text>
+  <text x="80" y="92" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">avatar</text>
+  <text x="150" y="60" fill="#ffffff" font-family="monospace" font-size="20" font-weight="bold">Hendrik Firmansyah</text>
+  <text x="150" y="85" fill="#00d4ff" font-family="monospace" font-size="13">Informatics Student • AI Engineer • Cyber Security Enthusiast • Android Developer</text>
+  <text x="150" y="108" fill="#8b949e" font-family="monospace" font-size="11">📍 Ngawi, Indonesia  |  🎓 Informatics Engineering</text>
+  <rect x="150" y="130" width="180" height="50" rx="6" fill="#1a1f3a" opacity="0.5"/>
+  <text x="170" y="153" fill="#8b949e" font-family="monospace" font-size="10">REPOS</text>
+  <text x="170" y="170" fill="#ffffff" font-family="monospace" font-size="16" font-weight="bold">4</text>
+  <rect x="350" y="130" width="180" height="50" rx="6" fill="#1a1f3a" opacity="0.5"/>
+  <text x="370" y="153" fill="#8b949e" font-family="monospace" font-size="10">FOLLOWERS</text>
+  <text x="370" y="170" fill="#ffffff" font-family="monospace" font-size="16" font-weight="bold">2</text>
+  <rect x="550" y="130" width="180" height="50" rx="6" fill="#1a1f3a" opacity="0.5"/>
+  <text x="570" y="153" fill="#8b949e" font-family="monospace" font-size="10">JOINED</text>
+  <text x="570" y="170" fill="#ffffff" font-family="monospace" font-size="16" font-weight="bold">Sep 2025</text>
+</svg>

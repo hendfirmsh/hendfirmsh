@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180" viewBox="0 0 430 180">
+  <rect width="430" height="180" fill="#0d1137" rx="8" stroke="#1f2540" stroke-width="0.5"/>
+  <rect width="430" height="32" fill="#2496ED" rx="8" opacity="0.1"/>
+  <text x="215" y="22" fill="#2496ED" font-family="monospace" font-size="12" text-anchor="middle" font-weight="bold">☁️ DevOps</text>
+  <line x1="0" y1="32" x2="430" y2="32" stroke="#1f2540" stroke-width="0.5"/>
+  <image x="30" y="40" width="16" height="16" href="https://img.shields.io/badge/-Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" />
+     <text x="55" y="53" fill="#e6edf3" font-family="monospace" font-size="12">Docker</text>
+<image x="30" y="66" width="16" height="16" href="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white" />
+     <text x="55" y="79" fill="#e6edf3" font-family="monospace" font-size="12">GitHub Actions</text>
+<image x="30" y="92" width="16" height="16" href="https://img.shields.io/badge/-Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" />
+     <text x="55" y="105" fill="#e6edf3" font-family="monospace" font-size="12">Git</text>
+<image x="30" y="118" width="16" height="16" href="https://img.shields.io/badge/-Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" />
+     <text x="55" y="131" fill="#e6edf3" font-family="monospace" font-size="12">Linux</text>
+<image x="30" y="144" width="16" height="16" href="https://img.shields.io/badge/-Playwright-45ba4b?style=flat&amp;logo=playwright&amp;logoColor=white" />
+     <text x="55" y="157" fill="#e6edf3" font-family="monospace" font-size="12">Playwright</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="280" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1137"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="280" fill="url(#tbg)" rx="8"/>
+  <circle cx="30" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="25" r="6" fill="#27c93f"/>
+  <text x="420" y="30" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="middle">terminal — hendrik@ai-system</text>
+  <line x1="0" y1="40" x2="900" y2="40" stroke="#1f2540" stroke-width="1"/>
+  <text x="30" y="68" fill="#00e676" font-family="monospace" font-size="13">hendrik@ai-system:~$</text>
+  <text x="210" y="68" fill="#e6edf3" font-family="monospace" font-size="13">whoami</text>
+  <text x="30" y="92" fill="#e6edf3" font-family="monospace" font-size="13">├─&gt; <tspan fill="#00d4ff">Hendrik Firmansyah</tspan> — AI Engineer / Cyber Security</text>
+  <text x="30" y="120" fill="#00e676" font-family="monospace" font-size="13">hendrik@ai-system:~$</text>
+  <text x="210" y="120" fill="#e6edf3" font-family="monospace" font-size="13">cat /etc/skills</text>
+  <text x="30" y="144" fill="#e6edf3" font-family="monospace" font-size="13">├─&gt; Languages: Python, Kotlin, JS/TS, SQL</text>
+  <text x="30" y="164" fill="#e6edf3" font-family="monospace" font-size="13">    Frameworks: Node.js, Flask, FastAPI, React</text>
+  <text x="30" y="184" fill="#e6edf3" font-family="monospace" font-size="13">    AI/ML: OpenAI, TensorFlow, PyTorch, LangChain</text>
+  <text x="30" y="212" fill="#00e676" font-family="monospace" font-size="13">hendrik@ai-system:~$</text>
+  <text x="210" y="212" fill="#e6edf3" font-family="monospace" font-size="13">systemctl status --active</text>
+  <text x="30" y="236" fill="#00e676" font-size="13">● <tspan fill="#e6edf3" font-family="monospace">ai_engine.service</tspan> <tspan fill="#00e676">● active (running)</tspan></text>
+  <text x="30" y="256" fill="#00e676" font-size="13">● <tspan fill="#e6edf3" font-family="monospace">cyber_defense.service</tspan> <tspan fill="#00e676">● active (running)</tspan></text>
+  <text x="30" y="276" fill="#00e676" font-size="13">● <tspan fill="#e6edf3" font-family="monospace">android_build.service</tspan> <tspan fill="#00e676">● active (running)</tspan></text>
+</svg>
