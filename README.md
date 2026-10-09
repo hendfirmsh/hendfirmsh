@@ -35,5 +35,5 @@ goal: Building intelligent, secure systems that make a real impact
 <p align="center">
   <em>"Building intelligent, secure systems that make a real impact"</em><br/><br/>
   <img src="https://komarev.com/ghpvc/?username=hendfirmsh&style=for-the-badge&color=00E5FF" alt="Profile Views" width="25%" /><br/><br/>
-  <sub>README Engine V3 — Crafted with dedication</sub>
+  <sub>Cyaaa... :)</sub>
 </p>
